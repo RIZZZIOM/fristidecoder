@@ -23,7 +23,6 @@ cd fristidecoder
 ```
 
 3. **🖥️ Run the Script:**
-   Open your terminal or command prompt, navigate to the directory where the script is saved, and run the following command:
    
    ```bash
    python fristidecoder.py
