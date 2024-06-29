@@ -17,10 +17,10 @@ The FristiLeaks Password Decoder follows these steps to decode the password:
 
 2. **💾 Download the Script:**
 
-```shell
-git clone 'https://github.com/RIZZZIOM/fristidecoder.git'
-cd fristidecoder
-```
+   ```shell
+   git clone 'https://github.com/RIZZZIOM/fristidecoder.git'
+   cd fristidecoder
+   ```
 
 3. **🖥️ Run the Script:**
    
